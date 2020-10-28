@@ -1,0 +1,5 @@
+name: YScript
+description: YEAHx4 Script Plugin
+version: 1.0.0-alpha
+author: YEAHx4
+main: com.github.yeahx4.JavaMain
